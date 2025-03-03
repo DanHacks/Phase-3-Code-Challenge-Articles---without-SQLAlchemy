@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+alembic = "1.8.1"
+importlib-metadata = "6.0.0"
+importlib-resources = "5.10.0"
+ipdb = "0.13.9"
+sqlalchemy = "1.4.42"
+
+[dev-packages]
+
+[requires]
+python_full_version = "3.8.13"
